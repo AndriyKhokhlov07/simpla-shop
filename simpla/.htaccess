@@ -1,0 +1,6 @@
+AddType application/octet-stream csv
+AuthName "Simpla CMS"
+AuthType Basic
+# AuthUserFile /Users/pixel/Sites/simpla/simpla/.passwd
+AuthUserFile C:\xampp\htdocs\simpla\www\simpla\.passwd
+require valid-user
